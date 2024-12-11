@@ -1,0 +1,19 @@
+Start testing: Dec 11 12:09 CET
+----------------------------------------------------------
+1/1 Testing: SimpleTest
+1/1 Test: SimpleTest
+Command: "/home/savoyarde/TD5-multimedia/build/td"
+Directory: /home/savoyarde/TD5-multimedia/build
+"SimpleTest" start time: Dec 11 12:09 CET
+Output:
+----------------------------------------------------------
+81006.42372
+<end of output>
+Test time =  10.61 sec
+----------------------------------------------------------
+Test Passed.
+"SimpleTest" end time: Dec 11 12:09 CET
+"SimpleTest" time elapsed: 00:00:10
+----------------------------------------------------------
+
+End testing: Dec 11 12:09 CET
